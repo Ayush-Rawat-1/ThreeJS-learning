@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "dat.gui": "^0.7.9",
+    "parcel": "^2.12.0",
+    "three": "^0.165.0"
+  },
+  "type": "module",
+  "name": "dogoo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
